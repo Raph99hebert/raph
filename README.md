@@ -41,21 +41,7 @@
     color: white;
 }
   
-.nav-list li a:hover {
-    color: black;
-}
-  
-.rightNav {
-    width: 50%;
-    text-align: right;
-}
-  
-#search {
-    padding: 5px;
-    font-size: 17px;
-    border: 2px solid grey;
-    border-radius: 9px;
-}
+
   
 .background {
     background: rgba(0, 0, 0, 0.4) url(
